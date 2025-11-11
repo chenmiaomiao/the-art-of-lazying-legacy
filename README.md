@@ -1,3 +1,8 @@
+> Note: This repository has been migrated. Active development continues at https://github.com/lachlanchen/the-art-of-lazying
+> 本仓库已迁移：请前往 https://github.com/lachlanchen/the-art-of-lazying 关注更新
+> このリポジトリは移行しました → https://github.com/lachlanchen/the-art-of-lazying
+
+
 # The Art of Lazying
 
 A repository that promotes strategic laziness for a simplified, productive life, encompassing AI agents, language learning, and vlogs with practical tips and real-life use cases.
