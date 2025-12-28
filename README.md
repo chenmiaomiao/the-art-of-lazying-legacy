@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figs/banner.png" alt="LazyingArt banner" />
+</p>
+
 > Note: This repository has been migrated. Active development continues at https://github.com/lachlanchen/the-art-of-lazying
 > 本仓库已迁移：请前往 https://github.com/lachlanchen/the-art-of-lazying 关注更新
 > このリポジトリは移行しました → https://github.com/lachlanchen/the-art-of-lazying
