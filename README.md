@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figs/banner.png" alt="LazyingArt banner" />
+  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
 </p>
 
 > Note: This repository has been migrated. Active development continues at https://github.com/lachlanchen/the-art-of-lazying
